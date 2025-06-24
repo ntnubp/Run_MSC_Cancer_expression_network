@@ -2,7 +2,7 @@
 
 The analysis workflow includes the following steps:
 
-1. Download the MATLAB scripts provided in this folder.
+1. Download the MATLAB script and functions provided in this folder.
 
 2. Obtain the expression data from the [Synapse project page](https://www.synapse.org/Synapse:syn68458567/files/). Place all data files and MATLAB scripts in the same working folder on your local machine.
 
