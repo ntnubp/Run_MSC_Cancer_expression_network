@@ -1,4 +1,4 @@
-## **This repository contains MATLAB code for constructing an MSC (Minimum Spanning Cluster) tree network based on cancer gene expression data.**
+## **This repository contains MATLAB code for constructing an MSC (Minimum Span Clustering) tree network based on cancer gene expression data.**
 
 The analysis workflow includes the following steps:
 
