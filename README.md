@@ -1,6 +1,6 @@
 # MSC Tree Network Construction from Cancer Expression Data
 
-This repository contains MATLAB code for constructing a **Minimum Span Clustering (MSC)** tree network based on cancer gene expression data available from the [Synapse project page](https://www.synapse.org/Synapse:syn68458567/files/).**
+This repository contains MATLAB code for constructing a **Minimum Span Clustering (MSC)** tree network based on cancer gene expression data available from the [Synapse project page](https://www.synapse.org/Synapse:syn68458567/files/).
 
 ## Overview
 The analysis workflow includes the following steps:
